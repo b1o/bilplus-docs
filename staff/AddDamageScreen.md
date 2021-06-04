@@ -15,9 +15,14 @@
 
 ## Car Body Damage
 
+<!--
 <img src="../assets/staff-add-body-damage_1.png" style="max-width: 32%" />
 <img src="../assets/staff-add-body-damage_2.png" style="max-width: 32%" />
-<img src="../assets/staff-selection-location.png" style="max-width: 32%" />
+<img src="../assets/staff-selection-location.png" style="max-width: 32%" /> -->
+
+![a](../assets/staff-add-body-damage_1.png | width=100)
+![b](../assets/staff-add-body-damage_2.png | width=100)
+![c](../assets/staff-selection-location.png | width=100)
 
     1. A Location Button that redirects to the location selection screen
     2. A switch that indicates if the damage is insurance or not
