@@ -15,9 +15,12 @@
 
 ## Car Body Damage
 
+<div>
 <img src="../assets/staff-add-body-damage_1.png" width="250px" style="display: inline-block" />
 <img src="../assets/staff-add-body-damage_2.png"   width="250px"  style="display: inline-block" />
 <img src="../assets/staff-selection-location.png" width="250px" style="display: inline-block" />
+</div>
+
 <!-- 
 ![a](../assets/staff-add-body-damage_1.png | width=100)
 ![b](../assets/staff-add-body-damage_2.png | width=100)
