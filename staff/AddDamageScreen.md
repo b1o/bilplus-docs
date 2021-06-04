@@ -6,7 +6,7 @@
 
 ## Damage Type
 
-<img src="../assets/staff-add-damage.png" style="max-width: 32%" />
+<img src="../assets/staff-add-damage.png" width="250px" />
 
     1. The first step is to choose the type of the damage
         - Car Body Damage
@@ -15,9 +15,9 @@
 
 ## Car Body Damage
 
-<img src="../assets/staff-add-body-damage_1.png" width="250px" />
-<img src="../assets/staff-add-body-damage_2.png"   width="250px"  />
-<img src="../assets/staff-selection-location.png" width="250px" />
+<img src="../assets/staff-add-body-damage_1.png" width="250px" style="display: inline-block" />
+<img src="../assets/staff-add-body-damage_2.png"   width="250px"  style="display: inline-block" />
+<img src="../assets/staff-selection-location.png" width="250px" style="display: inline-block" />
 <!-- 
 ![a](../assets/staff-add-body-damage_1.png | width=100)
 ![b](../assets/staff-add-body-damage_2.png | width=100)
