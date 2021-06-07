@@ -1,7 +1,6 @@
 # Staff Main Menu Screen
 
-<img align="right" src="../assets/staff-main-menu.png" width="33%" />
-
+<img align="right" src="../assets/staff-main-menu.png" width="45%" />
 
 ## 1. <a href="./CarProductionScreen.md">Production</a>
 
@@ -14,5 +13,3 @@
 ## 5. <a href="./OffersScreen.md">Offers</a>
 
 ## 6. <a href="./ChatScreen.md">Chat</a>
-
-

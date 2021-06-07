@@ -9,7 +9,6 @@ After going through the <a href="./CarSelectScreen.md">car select screen</a> the
 ## Chat
 
 A header displays basic info about the car, the button bellow can be pressed to be returned in the <a href="./CarSelectScreen.md">car select screen</a>
-
 A simple chat messaging screen that displays each party's message along with the date it was sent on.
 
 Message composer where the user can input his message and a button to send media files.
