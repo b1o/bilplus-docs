@@ -1,7 +1,7 @@
 # Staff Main Menu Screen
 
-<div style="display:flex">
-<div style="width: 45%">
+<img align="right" src="../assets/staff-main-menu.png" width="33%" />
+
 
 ## 1. <a href="./CarProductionScreen.md">Production</a>
 
@@ -15,11 +15,4 @@
 
 ## 6. <a href="./ChatScreen.md">Chat</a>
 
-</div>
 
-<div style="width: 45%">
-
-![Main Menu](../assets/staff-main-menu.png)
-
-</div>
-</div>
