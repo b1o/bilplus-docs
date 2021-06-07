@@ -1,8 +1,9 @@
 # Quality Control In Screen
 
-![Quality control in 1](../assets/staff-quality-control-in_1.png)
-
-![Quality control in 1](../assets/staff-quality-control-in_2.png)
+<div>
+    <img width="33%" src="../assets/staff-quality-control-in_1.png" />
+    <img width="33%" src="../assets/staff-quality-control-in_2.png" />
+</div>
 
 ## Description
   
