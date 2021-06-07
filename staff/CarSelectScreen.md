@@ -1,6 +1,5 @@
 # Car Select Screen
 
-![Car Select]()
 
 <img src="../assets/staff-car-select.png" width="33%" />
 
