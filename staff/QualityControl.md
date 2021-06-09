@@ -7,27 +7,26 @@
 
 ## Description
 
-(?)
-
+FUNCTION TO VERIFY IF THE CURRNET DAMAGES ON THE CAR IS THE SAME AS THE ONE REGISTERERD BY CUSTOMER. THIS IS STEP IS PERFOMERED BEFORE THAT PRODUCTONS STAGES STARTS
 ## Damage List
 
-(?)
+TO VERIFY THAT ALLA DAMAGES IS THE SAME AS THE ONE OBSERVED ON THE CAR
 
 ## Documents & Photos
 
 1. Gallery button
 2. PDF button
 
-## Damage amount (?)
-
+## Damage TYPE (?)
+A WAY TO ESTIMATE THE THE DAMAGE AND DECIDE A PRELIMINARY DELIVERY DATE WHICH IS SHOWN BOTH IN STAFF APP AND VIA NOTIFICATIONS TO CUSTOMER 
 1. Dropdown with the options
-    - small
-    - medium
-    - large
+    - small (4 DAYS)
+    - medium ( 7 DAYS)
+    - large (20 DAYS)
 2. Button to take a photo
 
 ## Next Step field (?)
-
+AFTER PERFORMING QUALITY CONTROLL IN STAFF MEMBER CAN CHOOSE THE NEXT STEP FOR THE CAR, WHICH ARE ONE AMON ALL PRODUCTION STAGES 
 1. Dropdown with all the statuses(?)
 
 ## Comment
@@ -44,4 +43,4 @@
 ## Submit button
 
  1. Redirect to check list screen to double checked required steps
- 2. Saves the data
+ 2. Saves the data (CAN WE CHANGE THIS TO BE AUTOMATICALLY SAVE WHEN CHOOSING NEXT STEP )
