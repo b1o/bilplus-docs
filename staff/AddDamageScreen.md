@@ -1,6 +1,6 @@
 # Add Damage Screen
 
-## Description
+## Description THIS PAGE SEEMS TO BE MIXED WITH INSPECTION MENU 
 
 1. When doing an inspection the staff member has the ability to add a new damages be it either to a completely new car (explained in CarInspectionScreen.md) or add them to an existing car, depending on the needs at hand
 
