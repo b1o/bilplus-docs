@@ -24,11 +24,12 @@ Each item contains:
     - checkbox
 
 `Needs explanation to what the checkbox selection does exactly`
+THE "DAMAGE BOXES" IS TO CLEARIFY THE EXACT JOB THAT NEEDS TO BE PERFORMED AND BY ACTIVIATE THE CHECK BOX STAFF MEMBE VERIFY THAT THEY HAVE 1. TAKE PART OF THE INOFRMATION 2. COMPLETET THAT JOB
 
 ## Images & Documents
 
-1. Gallery button that opens a screen with all the photos related to the car
-2. Pdf button should open related document
+1. Gallery button that opens a screen with ALL the photos related to the car
+2. Pdf button should open related documentS
 
 ## Comment
 
@@ -40,3 +41,5 @@ Each item contains:
  2. Button to add a new item to the list
  3. The button opens up a new page with a single text field
  4. Each item can be clicked to remove it from the list
+
+AS IT IS NOW WE NEED TO PRESS "SAVE" TO SAVE THE CHANGEC INTE COMMENT FIELD AND EXTRA JOB, CAN WE INSTEAD SAVE IT AUTOMATICALYY WHEN GOING TO NEXT STEP?
