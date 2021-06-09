@@ -20,4 +20,4 @@ The car can be filtered by the status they are currently in
 Infinite scroll paginated list with the results filtered by the above fields. Each item in the list contains:
     - The registration number with the car model
     - The current status of  the car
-    - Delivery date (?)
+    - Delivery date (?) DELIVERY DATE THAT IS GIVIG FROM IF YOU CHOOSE SMALL/MEDIUM/LARGE (DROP DOWN) DAMAGE EITHER IN THE BACKEND OR VIA STAFF APP- QUALITY CONTROLL IN
